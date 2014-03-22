@@ -90,7 +90,7 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 */
 /*@font-face { font-family: 'small_harsh'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); }*/
 @font-face { font-family: 'small_harsh'; src: url('../fonts/ZpixEX2_EX.ttf'); }
-.font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
+.font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 8px; }
 
 /*---- regular -------------------------------------------------*/
 /*@font-face { font-family: 'regular'; src: url('../fonts/BMmini-U--88Zen--misaki_gothic.ttf'); }*/
