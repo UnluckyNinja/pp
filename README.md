@@ -1,6 +1,6 @@
 ### **Papers, Please** - Localization Tool
 
-http://whitegemloc.github.io
+http://UnluckyNinja.github.io
 
 forked from https://github.com/PapersPleaseLoc
 
