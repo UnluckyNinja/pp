@@ -134,36 +134,36 @@ in your custom stylesheet and in the PACK/data/Fonts.xml file with the same valu
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /*---- scribble -------------------------------------------------*/
-/*@font-face { /* Sam Derrick * / font-family: 'scribble'; src: url('../fonts/sd_auto_pilot--BetinaScriptExtraCTT--nagurip.ttf'); }*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/sd_auto_pilot--BetinaScriptExtraCTT--nagurip.ttf'); }
+/*@font-face { /* Sam Derrick * / font-family: 'scribble'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport -------------------------------------------------*/
-/*@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/v5loxical.ttf'); }*/
-/*@font-face { font-family: 'passport_republia'; src: url('../fonts/Arial-Black.ttf'); }*/
-/*@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}*/
-/*@font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }*/
+@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/v5loxical.ttf'); }
+@font-face { font-family: 'passport_republia'; src: url('../fonts/Arial-Black.ttf'); }
+@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}
+@font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }
 
-@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/ZpixEX2_EX.ttf'); }
-@font-face { font-family: 'passport_republia'; src: url('../fonts/ZpixEX2_EX.ttf'); }
-@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/ZpixEX2_EX.ttf');}
-@font-face { font-family: 'passport_kolechia'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+/*@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
+/*@font-face { font-family: 'passport_republia'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
+/*@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/ZpixEX2_EX.ttf');}*/
+/*@font-face { font-family: 'passport_kolechia'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 
 /*---- misc -------------------------------------------------*/
-/*@font-face { font-family: 'press'; src: url('../fonts/Raleway-Heavy.otf'); }*/
-@font-face { font-family: 'press'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+@font-face { font-family: 'press'; src: url('../fonts/Raleway-Heavy.otf'); }
+/*@font-face { font-family: 'press'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 .font-press { font-family: 'press'; font-size: 22px; line-height: 22px; font-weight: normal; }
 
-/*@font-face { font-family: 'propaganda'; src: url('../fonts/PROPAGAN.ttf'); }*/
-@font-face { font-family: 'propaganda'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+@font-face { font-family: 'propaganda'; src: url('../fonts/PROPAGAN.ttf'); }
+/*@font-face { font-family: 'propaganda'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 .font-propaganda { font-family: 'propaganda'; font-size: 10px; line-height: 10px; }
 
-/*@font-face { font-family: 'kid_writing'; src: url('../fonts/RightyUsesLeftHand.ttf'); }*/
-@font-face { font-family: 'kid_writing'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+@font-face { font-family: 'kid_writing'; src: url('../fonts/RightyUsesLeftHand.ttf'); }
+/*@font-face { font-family: 'kid_writing'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 .font-kid_writing { font-family: 'kid_writing'; font-size: 16px; line-height: 16px; font-weight: bold; }
 
-/*@font-face { font-family: 'news'; src: url('../fonts/PlainBlack--EncientGermanGothic.ttf'); }*/
-@font-face { font-family: 'news'; src: url('../fonts/ZpixEX2_EX.ttf'); }
+@font-face { font-family: 'news'; src: url('../fonts/PlainBlack--EncientGermanGothic.ttf'); }
+/*@font-face { font-family: 'news'; src: url('../fonts/ZpixEX2_EX.ttf'); }*/
 .font-news { font-family: 'news'; font-size: 23px; line-height: 34px; font-weight: normal; }
 
 body {
