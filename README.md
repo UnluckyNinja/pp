@@ -1,6 +1,6 @@
 ### **Papers, Please** - Localization Tool
 
-http://UnluckyNinja.github.io
+http://unluckyninja.github.io/pp
 
 forked from https://github.com/PapersPleaseLoc
 
